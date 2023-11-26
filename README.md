@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+You can see the live site at [>>](https://nextjs-official-kappa.vercel.app/posts/pre-rendering)
